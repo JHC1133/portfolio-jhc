@@ -1,0 +1,17 @@
+.portfolioheader {
+    height: 150px;
+    width: 100%; /*calc(100% - 8.5px);*/
+    background: #1f262c;
+    background: radial-gradient(circle, rgba(31,38,44,1) 0%, rgba(30,37,43,1) 35%, rgba(33,40,47,1) 63%);
+
+    
+    display: flex;
+    align-items: center;    
+    
+}
+
+.portfolio-title {
+    font-size: 42px;
+    margin-left: 15px;
+    color:  #ffffff;
+}

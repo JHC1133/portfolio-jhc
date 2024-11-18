@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-jhc/static/css/main.1e5512a3.css",
+    "main.js": "/portfolio-jhc/static/js/main.29642f19.js",
+    "static/media/soborg-chair.png": "/portfolio-jhc/static/media/soborg-chair.f3557cbf5251a4b9a57b.png",
+    "static/media/zanotta-couch.png": "/portfolio-jhc/static/media/zanotta-couch.e9b2d4a16e520252d806.png",
+    "static/media/falling-water.png": "/portfolio-jhc/static/media/falling-water.71fc0c45c7052e3c2880.png",
+    "static/media/window-altar.png": "/portfolio-jhc/static/media/window-altar.5ca83aee24c791318db4.png",
+    "static/media/edward-hopper.png": "/portfolio-jhc/static/media/edward-hopper.c0c203a5d8e1fc25b45b.png",
+    "static/media/terra.png": "/portfolio-jhc/static/media/terra.654af92bb6465723ebb2.png",
+    "static/media/kyrk-moln.png": "/portfolio-jhc/static/media/kyrk-moln.df5a32d269964020f5c7.png",
+    "static/media/set-piece.png": "/portfolio-jhc/static/media/set-piece.b9f0c0e791d693ffa939.png",
+    "static/media/studio.png": "/portfolio-jhc/static/media/studio.72b2dbaf853fc4d9740c.png",
+    "static/media/cubed-joar.png": "/portfolio-jhc/static/media/cubed-joar.1254307cbbe53460c730.png",
+    "static/media/banana.png": "/portfolio-jhc/static/media/banana.1929759cc4450e1eafef.png",
+    "index.html": "/portfolio-jhc/index.html",
+    "main.1e5512a3.css.map": "/portfolio-jhc/static/css/main.1e5512a3.css.map",
+    "main.29642f19.js.map": "/portfolio-jhc/static/js/main.29642f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5512a3.css",
+    "static/js/main.29642f19.js"
+  ]
+}
